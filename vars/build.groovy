@@ -1,4 +1,4 @@
 def call(String params) {
-  print "Hello World!\n"
+  print "Build step from a shared library\n"
   print params
 }
